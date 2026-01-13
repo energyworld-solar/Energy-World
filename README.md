@@ -1,7 +1,9 @@
 <div align="center">
 
   <h1>Energy World</h1>
-  
+
+</div>
+
 # ⚡ Energy World
 
 **Energy World** is a modern website for an electrical and electronics retail shop in Una, Gujarat.  
